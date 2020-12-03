@@ -17,13 +17,13 @@ Generated with :heart: by [project-reports-action](https://github.com/bryanmacfa
 | <img height="20" width="20" alt="@pulkitaggarwl" src="https://avatars3.githubusercontent.com/u/36596168?v=4"/> <a href="https://github.com/pulkitaggarwl">pulkitaggarwl</a> | [Enable GH workflows for VSIDE -  Deploy to Azure - .Net to App Service - Windows/Linux ](https://github.com/github/GitHub-EcoSystem/issues/31)                          | :green_heart:  | :green_heart:  | a day ago                             | 3 months ago | - Ship VS ...[Read More](#next-plan) |                                 |
 | <img height="20" width="20" alt="@bishal-pdMSFT" src="https://avatars3.githubusercontent.com/u/7830141?v=4"/> <a href="https://github.com/bishal-pdMSFT">bishal-pdMSFT</a>  | [Engg Debt for backing services( repo analysis etc. ) for better integration of GH with AzPortal, VSCode & VSIDE](https://github.com/github/GitHub-EcoSystem/issues/587) | :green_heart:  | :green_heart:  | a day ago                             | a month ago  | - Complete...[Read More](#next-plan) | - Divanshu...[Read More](#risk) |
 | <img height="20" width="20" alt="@pulkitaggarwl" src="https://avatars3.githubusercontent.com/u/36596168?v=4"/> <a href="https://github.com/pulkitaggarwl">pulkitaggarwl</a> | [Enable Static Webapp in Portal to use our Repo analysis service and Oryx](https://github.com/github/GitHub-EcoSystem/issues/223)                                        | :green_heart:  | :exclamation:  | a day ago                             | 8 days ago   | - Complete...[Read More](#next-plan) |                                 |
-| :triangular_flag_on_post:                                                                                                                                                   | [Azure Integration - Improve PE service supportability](https://github.com/github/GitHub-EcoSystem/issues/735)                                                           | :green_heart:  | :exclamation:  | a day ago                             | 8 days ago   | - complete...[Read More](#next-plan) |                                 |
+| :triangular_flag_on_post:                                                                                                                                                   | [Azure Integration - Improve PE service supportability](https://github.com/github/GitHub-EcoSystem/issues/735)                                                           | :green_heart:  | :exclamation:  | a day ago                             | 8 days ago   | - complete...[Read More](#next-plan-for-traceability) |                                 |
 
   
 ## next plan
 ### Enable traceability in Azure portal via RP (on Dogfood)
   
-- Finalize API's to support RP- Complete E2E dogfood RPaas scenario- Onboard to Geneva and EV2
+- <a name="next-plan-for-traceability"></a>Finalize API's to support RP- Complete E2E dogfood RPaas scenario- Onboard to Geneva and EV2
   
 ### Enable GH workflows for VSIDE -  Deploy to Azure - .Net to App Service - Windows/Linux 
   
